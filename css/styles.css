@@ -10,6 +10,9 @@ body{
     padding-top: 100px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+..pic{
+    width: 35%;
+}
 .chillies{
     width: 25%;
     float: right;
