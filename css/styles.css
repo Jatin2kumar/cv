@@ -9,6 +9,7 @@ body{
     position: relative;
     padding-top: 100px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-bottom: 300px;
 }
 
 .pic{
@@ -32,6 +33,8 @@ body{
     display:block;
     margin: auto;
     line-height: 2;
+    background-color: #fff;
+    padding-top: 60px;
 }
 
 .computer{
@@ -84,9 +87,7 @@ hr{
     padding-top: 20px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-.profile{
-    margin-top: 60px;
-}
+
 .top-cloud{
     position: absolute;
     right: 300px;
@@ -98,9 +99,11 @@ hr{
     left: 250px;
 }
 .art{
-    height: 400px;
     width: 400px;
-    padding-top: 20px;
+    position:absolute;
+    left:0;
+    right:0;
+    margin:0 auto;
 }
 .btn {
     background: #11cdd4;
