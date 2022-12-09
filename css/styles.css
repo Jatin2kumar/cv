@@ -49,6 +49,7 @@ h3{
 }
 
 .art{
+    height: 400px
     width: 400px;
     position: absolute;
     left: 0;
